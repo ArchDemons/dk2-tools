@@ -30,8 +30,8 @@ typedef struct {
 	ArtResource closeResource;
 	float32 height;
 	ushort healthGain;
-	ushort unk_1; // 99 always ?
-    uint unk_2; // 22 always ?
+	ushort unk_1; // 99 always
+    uint unk_2; // 22 always
     ushort researchTime;
 	Material material;
 	ubyte trapId;

@@ -77,12 +77,7 @@ enum <ubyte> SpecialAbility {
 	PRAY = 7,
 	PICK_LOCKS = 8,
 	FEAR_ATTACK = 9,
-	GHOST_POSESSION = 10,
-    UNK_11 = 11,
-    UNK_12 = 12,
-    UNK_13 = 13,
-    UNK_14 = 14,
-    UNK_15 = 15
+	GHOST_POSESSION = 10
 };
 
 struct Attraction {
